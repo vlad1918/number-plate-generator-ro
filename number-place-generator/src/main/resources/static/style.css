@@ -1,0 +1,15 @@
+#main {
+	width: 670px;
+	margin: 150px auto;
+}
+
+#plate {
+	border: 2px solid black;
+	background: url('ro.png') left no-repeat;
+	height: 82px;
+	width: 380px;
+	margin: 10px auto;
+	padding: 5px;
+	font-size: 50px;
+	text-align: center;
+}
