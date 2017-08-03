@@ -66,16 +66,16 @@ public class GeneratorUtil {
 				+ alphabet.substring(randomNumber3, randomNumber3 + 1);
 	}
 
-	//For local testing
-	public static void main(String[] args) {
-		System.out.println(GeneratorUtil.generateRandomCountyCode());
-
-		System.out.println(GeneratorUtil.generateRandomNumber(6));
-		System.out.println(GeneratorUtil.generateRandomNumber(7));
-		System.out.println(GeneratorUtil.generateRandomNumber(2));
-		System.out.println(GeneratorUtil.generateRandomNumber(3));
-
-		System.out.println(GeneratorUtil.generateThreeRandomLetters());
-	}
+//	//For local testing
+//	public static void main(String[] args) {
+//		System.out.println(GeneratorUtil.generateRandomCountyCode());
+//
+//		System.out.println(GeneratorUtil.generateRandomNumber(6));
+//		System.out.println(GeneratorUtil.generateRandomNumber(7));
+//		System.out.println(GeneratorUtil.generateRandomNumber(2));
+//		System.out.println(GeneratorUtil.generateRandomNumber(3));
+//
+//		System.out.println(GeneratorUtil.generateThreeRandomLetters());
+//	}
 
 }
